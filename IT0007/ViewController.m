@@ -56,6 +56,7 @@
 //    layer.bounds = CGRectMake(0, 0, 100, 100);
 //    layer.position=self.view.center;
 //    layer.borderColor=2
+    NSLog(@"这里有很多美女");
     NSInteger someLargeNumber =10;
      NSString *string = @"abc";
     for (int i = 0; i < someLargeNumber; i++)
